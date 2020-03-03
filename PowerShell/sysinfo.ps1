@@ -40,7 +40,7 @@ $Date=getDate
 $Body = "This machine's IP is $IP. User is $USER. Hostname is $Host. Powershell Version $Version. Today's Date is $Date"
 
 #build and send the email
-Send-MailMessage -To "roettibn@mail.uc.edu" -From "me@mail.com" -Subject "IT3038C Windows SysInfo" -Body $Body -SmtpServer smtp.gmail.com -Port 587 -UseSsl -Credential (Get-Credential)
+Send-MailMessage -To "youremail@email.com" -From "me@mail.com" -Subject "IT3038C Windows SysInfo" -Body $Body -SmtpServer smtp.gmail.com -Port 587 -UseSsl -Credential (Get-Credential)
 
 #confirm we reached the end
 Write-Host("Email Sent")
