@@ -1,6 +1,21 @@
 # What this does
 This script launches a seperate window where you can play the snake game.
 
+# Controls
+These are the controls to be used in the game:
+
+
+```python
+
+# Keyboard bindings
+wn.listen()
+wn.onkeypress(go_up, "w")
+wn.onkeypress(go_down, "s")
+wn.onkeypress(go_left, "a")
+wn.onkeypress(go_right, "d")
+
+```
+
 # How To Run Program and Expected Output
 Open PowerShell and type the command below replacing ```C:\Example\Snake.py``` with your file path
 
