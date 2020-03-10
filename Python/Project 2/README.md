@@ -16,7 +16,7 @@ wn.onkeypress(go_right, "d")
 
 ```
 
-# How To Run Program and Expected Output
+# How to Run the Program and the Expected Output
 Open PowerShell and type the command below replacing ```C:\Example\Snake.py``` with your file path
 
 ```powershell
