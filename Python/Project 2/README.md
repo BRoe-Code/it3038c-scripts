@@ -1,9 +1,9 @@
 # What this does
-
+This script launches a seperate window where you can play the snake game.
 
 # How To Run Program
+Open power shell and type the below code
 
+```powershell
 
-```javascript
-
-Javascript code block to highlight whats up in my code
+PS C:\> python
