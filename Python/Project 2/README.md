@@ -1,5 +1,5 @@
 # What this does
-This script launches a seperate window where you can play the snake game.
+This script launches a seperate window where you can play the snake game. The goal of the game is to collect as much food (yellow dot) as possible without running into the walls or yourself.
 
 # Controls
 These are the controls to be used in the game:
