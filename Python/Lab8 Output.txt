@@ -1,0 +1,26 @@
+(webscraping) PS C:\it3038c-scripts\Python> python .\Lab8.py
+Item name Tactical Hoodie has price
+                $ 62.00
+               is Smoke Blue color and is avaiable in
+
+          XXS - Sold Out
+
+
+          XS
+
+
+          S
+
+
+          M
+
+
+          L
+
+
+          XL
+
+
+          XXL
+
+ sizes
