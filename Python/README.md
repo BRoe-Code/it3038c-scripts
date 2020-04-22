@@ -20,5 +20,3 @@ PS C:\> python C:\Example\PriceDropAlert.py
 ````
 
 The output should look like the image below:
-
-![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%202/Snake%20Example.PNG "Logo Title Text 1")
