@@ -1,5 +1,5 @@
 # What this does
-This script will email you if the price of the item is below the price you set inside the script. This script can be set on a schedule so it sends the email once a day.
+This script will email you if the price of the item is below the price you set inside the script. This script can be set on a schedule so it sends the email once a day. This script is written to be manually run.
 
 # Code to Replace
 This is code you need to change inorder for the script to work.
