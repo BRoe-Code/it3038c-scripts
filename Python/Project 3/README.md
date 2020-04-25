@@ -4,7 +4,6 @@ This script will email you if the price of the item is below the price you set i
 # Code to Replace
 This is code you need to change inorder for the script to work.
 
-
 ```python
 #In line 7 and 9 replace the:
 'www.microcenter.com...' 
@@ -32,6 +31,25 @@ server.login('example@gmail.com', 'googleapppassword')
         'example@yahoo.com',
 
 ```
+
+# How to Inspect an Element on a Webpage
+Once you're on the webpage you want to scrape go to an element you want and right click, see example below:
+![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%203/Inspect%20Element%20Step%201.png "Logo Title Text 1")
+
+
+
+After you have clicked "inspect element" a box will appear and the code you want is highlighted, see example below:
+![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%203/Inspect%20Element%20Step%202.png "Logo Title Text 1")
+
+# How to Setup the Google App Password
+To setup the Google App Password, go to myaccount.google.com and then follow the steps below:
+![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%203/App%20Password%20Step%201.png "Logo Title Text 1")
+
+Select the app and device you want to use, see example below:
+![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%203/App%20Password%20Step%202.png "Logo Title Text 1")
+
+After selecting both of those items a screen similar to the one below will pop up (Use this PW in Line 60):
+![alt text](https://github.com/BRoe-Code/it3038c-scripts/blob/master/Python/Project%203/App%20Password%20Step%203.png "Logo Title Text 1")
 
 # How to Run the Program and the Expected Output
 Open PowerShell and type the command below replacing ```C:\Example\PriceDropAlert.py``` with your file path
