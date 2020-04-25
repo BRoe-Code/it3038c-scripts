@@ -57,7 +57,7 @@ def send_mail():
     server.ehlo()
     
     #Server Login Credentials both email and password
-    server.login('brandon.roetting@gmail.com', 'dnkddrzjpvgjuexn')
+    server.login('example@gmail.com', 'googleapppassword')
     
     #Subject of email
     subject = 'Price Drop Alert!'
@@ -70,8 +70,8 @@ def send_mail():
     
     #The email you are sending from and what email you are sending to plus contents
     server.sendmail(
-        'brandon.roetting@gmail.com',
-        'roettibn@mail.uc.edu',
+        'example@gmail.com',
+        'example@yahoo.com',
         msg
     )
     
