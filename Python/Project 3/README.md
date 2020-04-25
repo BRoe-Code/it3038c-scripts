@@ -9,6 +9,12 @@ This is code you need to change inorder for the script to work.
 'www.microcenter.com...' 
 #with a website of your choosing
 
+#In Line 8,17,28,36,and 41 make these variables equal to the ones you use in the check_price func.
+#Example code:
+global converted_price
+converted_price = saleprice[0:6]
+
+
 #Replace line 15,21,32 and 40 with the element specific to your website
 #Example code:
 span = soup.find("span", {"class":"ProductLink_616952"})
